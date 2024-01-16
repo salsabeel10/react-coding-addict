@@ -1,10 +1,15 @@
-import List from "./tutorial/05-leverage-javascript/starter/List"
+import Starter from "./tutorial/06-forms/starter/02-user-challenge"
+
 
 function App() {
   return(
-  <div className="container">
-   <List />
-  </div>
+  
+    <div className="container">
+
+      <Starter/>
+    </div>
+  
+  
   )
 }
 
